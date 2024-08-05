@@ -1,0 +1,146 @@
+
+diff btwn primitive and non primitive internally - DONE
+
+Array and its methods
+//String and its methods -DONE 
+
+memory allocation-DONE
+
+call by reference and call by value 
+
+value at the location also change -DONE 
+
+*how to define array and array objects try to find the something 
+come up with hositing 
+
+try to study type converstion -DONE
+
+finish module 2 topic session 1 
+
+
+*how to access the const by the var and let  
+type -DONE
+type conversion -DONE
+hositing work and example 
+write a program in js sort algorithm program 
+
+in depth learing -DONE 
+
+
+
+
+ARRAY METHOD AND STRING METHOD 
+
+
+FUNCTION AS METHOD IF IT IS AN OBJECT
+
+
+PROTOTYPICAL NARRATIVE CONSECT
+CERATING THE INSTANCE OF THE ARRAY IS CREATING
+
+protytpe inheritance
+
+xor
+
+left shift bitwise 
+
+operator 
+
+
+truthy and falsy value 
+
+checksum 
+
+any positive apart one or zero is posiotive 
+
+undefined 
+null 
+double and triple 
+== - check the value 
+=== - check the value and data type
+
++"1" infront number 
+
+"11"===+"1"
+
+for 3 type 
+for in and for of (iteratble)
+
+set map heap map
+
+
+set - remove duplicate value 
+
+
+type convserion interview
+
+map filter reduce 
+
+
+
+
+
+
+
+
+
+
+global execution context 
+function hositing 
+scope 
+function hositing dosent work with the function expression as variable as function
+function without any name is called anoymnous function 
+
+function and types 
+
+closure use is to define the private variable 
+sorting question 
+call by reference 
+call by type
+
+
+
+map vs  object 
+
+memory allocation is different 
+check key is there or not 
+value checking 
+
+better version of objects 
+
+
+internal function calling the function = call back 
+
+promise 
+
+to stop using the call back
+help in async program 
+
+
+study the chain program using .then()
+
+.finally()
+
+when to use resolve , reject , promise ,finally, 
+
+aysnc - make it sequentially 
+
+await in try catch block and the function should be in async function otherwise throw error
+
+
+fetch 
+
+
+json placeholder try sync promise async 
+///invoking the method based on the variable use call
+
+apply and call - just call and execute 
+bind call the function and then execute
+
+
+
+this 
+
+this is used define the particular scope 
+es6 site
+
